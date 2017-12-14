@@ -1,2 +1,6 @@
 # Remote-Shell
-C++ Representation of Remote Shell Program
+
+make
+bin/rshell
+
+make clean
